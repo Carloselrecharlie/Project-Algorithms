@@ -7,7 +7,7 @@ Since I have used libraries like *NumPy* and *matplotlib* I recommend you to ins
 
 
 ## Content
-Through a python app via Jupyter Notebook I have choosen a simple comparison-based sort, Insertion sort; an efficient comparison-based one, Merge sort; a non-comparison one: Counting sort: Cycle sort, another comparison-based sort which is efficient for any other in-place sorting technique. Lastly, Gnome sort completes the list of algorithms to be analyzed and compared in this README.md file.
+Through a python app via Jupyter Notebook I have choosen a simple comparison-based sort, Insertion sort; an efficient comparison-based one, Merge sort; a non-comparison one: Counting sort: Cycle sort, another comparison-based sort which is efficient for any other in-place sorting technique. Lastly, Gnome sort completes the list of algorithms to be analyzed and compared in this README.md file. The comments of the plots are also added to the Jupyter Notebook next to their corresponding plot.
 
 ## Python app
 In order to generate the problem arrays I used a numpy random function and within a for loop
